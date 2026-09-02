@@ -1,6 +1,6 @@
 # 📝 15. 3Sum (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/3sum)
+🔗 [Problem Link](https://leetcode.com/problems/3sum/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Two Pointers, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 239 ms
+- **Memory:** 59.4 MB
 
 ---
 
